@@ -1,4 +1,4 @@
-Lab 2: Flow control and Loops 
+'''Lab 2: Flow control and Loops 
 QUESTIONS
 5.	Write a program to Generate Fibonacci Series 
 6.	Write a program to Calculate Factorial Using a Loop 
@@ -7,7 +7,7 @@ QUESTIONS
 9.	Write a program to check given number is strong number of not.
 10.	Write a program to Print Multiplication Tables 
 11.	Write a program to Calculate the LCM and GCD of Two Numbers
-ANSWERS
+ANSWERS'''
 n = int(input("Enter the number of terms: "))
 a, b = 0, 1
 for _ in range(n):
